@@ -1,2 +1,10 @@
 const outputStr = "Hello World"
-console.log(outputStr)
+
+for (let i = 0; i < 5; i++) {
+  console.log(outputStr)
+}
+
+
+
+
+
